@@ -8,12 +8,12 @@
     <RPI32Filename></RPI32Filename>
     <PluginName>Text Line Filter</PluginName>
     <InstallFilename>TextLineFilter</InstallFilename>
-    <Description>Filters out lines using regex's or a simple string matching.&amp;amp;amp;#10;</Description>
+    <Description>Filters out lines using regex's or simple string matching.</Description>
     <Contributors>Paul Hutchinson</Contributors>
     <Copyright>2025</Copyright>
     <ReleaseDate>28 Sep 2025</ReleaseDate>
     <Version>1.0</Version>
-    <APIVersion>1.1</APIVersion>
+    <APIVersion>2.0</APIVersion>
     <PluginClass>1</PluginClass>
     <PluginSubClass>4</PluginSubClass>
 </ExternPluginMaker>
