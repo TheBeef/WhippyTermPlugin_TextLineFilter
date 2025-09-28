@@ -127,7 +127,9 @@ struct DataProcessorInfo m_TextLineFilter_Info=
     "Filters out lines using regex's or a simple string matching.",
     "Filters out lines using regex's or a simple string matching.",
     e_DataProcessorType_Text,
-    .TxtClass=e_TextDataProcessorClass_Other,
+    {
+        .TxtClass=e_TextDataProcessorClass_Other,
+    },
     e_BinaryDataProcessorMode_Hex
 };
 
